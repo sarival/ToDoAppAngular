@@ -1,5 +1,18 @@
 # ToDoAngularApp
 
+## Apicação
+
+ToDo App criado para estudo do Angular:
+
+- Tela inicial:
+![inicial](./print/minhas-tarefas.png)
+
+
+- Tela de cadastro de nova tarefa
+![nova tarefa](./print/nova-tarefa.png)
+
+---
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.21.
 
 ## Development server
