@@ -4,11 +4,11 @@
 
 ToDo App criado para estudo do Angular:
 
-- Tela inicial:
+### Tela inicial:
 ![inicial](./print/minhas-tarefas.png)
 
 
-- Tela de cadastro de nova tarefa
+### Tela de cadastro de nova tarefa
 ![nova tarefa](./print/nova-tarefa.png)
 
 ---
